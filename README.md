@@ -10,7 +10,7 @@ Project sections:
 
 ## Problem understanding
 
-Planning is an important topic in AI because intelligent agents are expected to automatically plan their own actions in uncertain domains. Planning and scheduling systems are commonly used in automation and logistics operations, robotics and self-driving cars, and for aerospace applications like the Hubble telescope and NASA Mars rovers. This project development combine symbolic logic and classical search to implement an agent that performs progression search to solve planning problems.
+Experiment with adversarial search techniques by building an agent to play knights Isolation. Unlike the examples in lecture where the players control tokens that move like chess queens, this version of Isolation gives each agent control over a single token that moves in L-shaped movements--like a knight in chess.
 
 
 ## Project structure
@@ -40,9 +40,6 @@ To run the experiments run the `run_search.py` script. The script can be execute
 $ python run_search.py -m
 ```
 
-  - You can also run specific problems & search algorithms - e.g., to run breadth first search and UCS on problems 1 and 2:
-```
-$ python run_search.py -p 1 2 -s 1 2
 ```
 
   - Running all the experiments
