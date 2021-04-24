@@ -1,0 +1,105 @@
+DEPTH = 3
+
+Running 100 games:
++++++++--+-++++--+-+++++-+++++++++++++++++-+---++++++---++-++++++-+-+-+++++-+++-++++++++-++++++++++++-++
+Your agent won 79.0% of matches against Greedy Agent
+
+Running 100 games:
+-+--++++-+-+--+-++--++++--++---+-++++++-++++++++++-++++--+++++---+-+-+---+-----+++++----+-++-+-+++++-+-+++-+
+Your agent won 62.0% of matches against Minimax Agent
+
+Running 100 games:
++-+--+-++-++++-++------+++-+++-+++++-+--++----++-+----+--++--+--++---++-++++-+-+++++------+--++-++--+
+Your agent won 51.0% of matches against Custom TestAgent
+
+Running 100 games:
++++++++++++++-+++++++++++++++-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Your agent won 98.0% of matches against Random Agent
+
+Running 100 games:
++-++-++++++---+++++++-++--+-+-+++-++-++++++++++++--++++-+++-++++-+++---++++++-++-+-++-+++-+++-+--++-+-
+Your agent won 71.0% of matches against Greedy Agent
+
+Running 100 games:
++-+++-+-++--+++-++-++++++-++++++-+--++-+-+--++-+++++--++---+--+-+++----++-+-++++++--+---+-+---++--+-----++
+Your agent won 58.0% of matches against Minimax Agent
+
+Running 100 games:
++------+-+-+-+-+-++++-++-+-+++----+++--++++-+++-+-+-----+--+--++--++++-+---++-++-++---------+-++--++-+
+Your agent won 48.0% of matches against Custom TestAgent
+
+Running 100 games:
++-++++++++++++++++++++++++++++++++++++++++++++++++-+++++++++++++++++++-+++++++++++-++++++++++++++++++++
+Your agent won 96.0% of matches against Random Agent
+
+
+DEPTH = 5
+
+
+Running 100 games:
++++++++--+-++++--+-+++++-+++++++++++++++++-+---++++++---++-++++++-+-+-+++++-+++-++++++++-++++++++++++-++
+Your agent won 76.0% of matches against Greedy Agent
+
+Running 100 games:
+-+--++++-+-+--+-++--++++--++---+-++++++-++++++++++-++++--+++++---+-+-+---+-----+++++----+-++-+-+++++-+-+++-+
+Your agent won 63.0% of matches against Minimax Agent
+
+Running 100 games:
++-+--+-++-++++-++------+++-+++-+++++-+--++----++-+----+--++--+--++---++-++++-+-+++++------+--++-++--+
+Your agent won 51.0% of matches against Custom TestAgent
+
+Running 100 games:
++++++++++++++-+++++++++++++++-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Your agent won 98.0% of matches against Random Agent
+
+Running 100 games:
++-++-++++++---+++++++-++--+-+-+++-++-++++++++++++--++++-+++-++++-+++---++++++-++-+-++-+++-+++-+--++-+-
+Your agent won 71.0% of matches against Greedy Agent
+
+Running 100 games:
++-+++-+-++--+++-++-++++++-++++++-+--++-+-+--++-+++++--++---+--+-+++----++-+-++++++--+---+-+---++--+-----++
+Your agent won 58.0% of matches against Minimax Agent
+
+Running 100 games:
++------+-+-+-+-+-++++-++-+-+++----+++--++++-+++-+-+-----+--+--++--++++-+---++-++-++---------+-++--++-+
+Your agent won 48.0% of matches against Custom TestAgent
+
+Running 100 games:
++-++++++++++++++++++++++++++++++++++++++++++++++++-+++++++++++++++++++-+++++++++++-++++++++++++++++++++
+Your agent won 96.0% of matches against Random Agent
+
+
+
+DEPTH = 7
+
+Running 100 games:
++++++++--+-++++--+-+++++-+++++++++++++++++-+---++++++---++-++++++-+-+-+++++-+++-++++++++-++++++++++++-++
+Your agent won 79.0% of matches against Greedy Agent
+
+Running 100 games:
+-+--++++-+-+--+-++--++++--++---+-++++++-++++++++++-++++--+++++---+-+-+---+-----+++++----+-++-+-+++++-+-+++-+
+Your agent won 62.0% of matches against Minimax Agent
+
+Running 100 games:
++-+--+-++-++++-++------+++-+++-+++++-+--++----++-+----+--++--+--++---++-++++-+-+++++------+--++-++--+
+Your agent won 51.0% of matches against Custom TestAgent
+
+Running 100 games:
++++++++++++++-+++++++++++++++-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Your agent won 98.0% of matches against Random Agent
+
+Running 100 games:
++-++-++++++---+++++++-++--+-+-+++-++-++++++++++++--++++-+++-++++-+++---++++++-++-+-++-+++-+++-+--++-+-
+Your agent won 71.0% of matches against Greedy Agent
+
+Running 100 games:
++-+++-+-++--+++-++-++++++-++++++-+--++-+-+--++-+++++--++---+--+-+++----++-+-++++++--+---+-+---++--+-----++
+Your agent won 58.0% of matches against Minimax Agent
+
+Running 100 games:
++------+-+-+-+-+-++++-++-+-+++----+++--++++-+++-+-+-----+--+--++--++++-+---++-++-++---------+-++--++-+
+Your agent won 48.0% of matches against Custom TestAgent
+
+Running 100 games:
++-++++++++++++++++++++++++++++++++++++++++++++++++-+++++++++++++++++++-+++++++++++-++++++++++++++++++++
+Your agent won 96.0% of matches against Random Agent
