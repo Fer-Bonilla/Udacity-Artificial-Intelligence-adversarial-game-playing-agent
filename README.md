@@ -33,19 +33,38 @@ The project structure is based on the Udacity's project template:
 
 ## Running the experiments
 
-To run the experiments run the `run_search.py` script. The script can be executed manually or in batch mode:
+To run the experiments, execute the `run_match.py` python script: 
 
   - Run the search experiment manually (you will be prompted to select problems & search algorithms)
-```
-$ python run_search.py -m
-```
+  ```
+  $ python run_match.py -r 50 -o GREEDY -t 150
+  ```
 
-```
+Can run experiment with different parameters values:
 
-  - Running all the experiments
-```
-$ python run_search.py -p 1 2 3 4 -s 1 2 3 4 5 6 7 8 9 10 11
-```
+  ```
+  •	Time limit: 100 y 150 ms
+  •	Opponent model:  GREEDY, MINIMAX, SELF, RANDOM
+  •	Depth: 3, 5, 7 (Parameter DEFAULT_DEPTH inside my_custom_player.py)
+  •	Matches: 100 (50 rounds)
+  ```
+
+To facilitate the execution was created a shell script named experiments.sh that executes these calls:
+  ```
+  python run_match.py -r 50 -o GREEDY -t 100
+  python run_match.py -r 50 -o MINIMAX -t 100
+  python run_match.py -r 50 -o SELF -t 100
+  python run_match.py -r 50 -o RANDOM -t 100
+  python run_match.py -r 50 -o GREEDY -t 150
+  python run_match.py -r 50 -o MINIMAX -t 150
+  python run_match.py -r 50 -o SELF -t 150
+  python run_match.py -r 50 -o RANDOM -t 150
+  ```
+
+It's necessary assign the right permits to execute the script: 
+  ```
+  chmod u+x experiments.sh
+  ```
 
 ## Results report
 
